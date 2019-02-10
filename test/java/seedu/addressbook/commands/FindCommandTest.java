@@ -40,6 +40,9 @@ public class FindCommandTest {
 
         //Keyword matching a word in address: not matched
         assertFindCommandBehavior(new String[]{"Clementi"}, Collections.emptyList());
+
+        //case-insensitive searching: matched
+        assertFindCommandBehavior(new String[]{"smith"}, Arrays.asList(td.dan, td.eric));
     }
 
     /**
