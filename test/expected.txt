@@ -135,6 +135,9 @@
 || 
 || 5 persons listed!
 || ===================================================
+|| Enter command: || [Command entered:  add Brown Adam p/666666 e/brownadam@nus.edu.sg a/666, zeta drive t/school t/friends]
+|| New person added: Brown Adam Phone: 666666 Email: brownadam@nus.edu.sg Address: 666, zeta drive Tags: [school][friends]
+|| ===================================================
 || Enter command: list
 || [Command entered:list]
 || 	1. Adam Brown Phone: 111111 Email: adam@gmail.com Address: 111, alpha street Tags:
@@ -250,32 +253,6 @@
 || 	2. Brown Adam Phone: 666666 Email: brownadam@nus.edu.sg Address: 666, zeta drive Tags: [school][friends]
 ||
 || 2 persons listed!
-|| ===================================================
-|| Enter command:
-|| [Command entered:  list]
-|| 	1. Adam Brown Phone: 111111 Email: adam@gmail.com Address: 111, alpha street Tags:
-|| 	2. Betsy Choo Tags: [secretive]
-|| 	3. Charlie Dickson Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school][friends]
-|| 	4. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
-|| 	5. Esther Potato Phone: 555555 Email: esther@not.a.real.potato Tags: [tubers][starchy]
-|| 	6. Brown Adam Phone: 666666 Email: brownadam@nus.edu.sg Address: 666, zeta drive Tags: [school][friends]
-||
-|| 6 persons listed!
-|| ===================================================
-|| Enter command: edit 6 Brown Adam p/000000 e/brownadam@ntu.edu.sg a/000, tengah t/friends
-|| [Command entered:edit 6 Brown Adam p/000000 e/brownadam@ntu.edu.sg a/000, tengah t/friends]
-|| Edited person: Brown Adam Phone: 666666 Email: brownadam@nus.edu.sg Address: 666, zeta drive Tags: [school][friends]
-|| ===================================================
-|| Enter command: list
-|| [Command entered:list]
-|| 	1. Adam Brown Phone: 111111 Email: adam@gmail.com Address: 111, alpha street Tags:
-|| 	2. Betsy Choo Tags: [secretive]
-|| 	3. Charlie Dickson Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school][friends]
-|| 	4. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
-|| 	5. Esther Potato Phone: 555555 Email: esther@not.a.real.potato Tags: [tubers][starchy]
-|| 	6. Brown Adam Phone: 000000 Email: brownadam@ntu.edu.sg Address: 000, tengah Tags: [friends]
-||
-|| 6 persons listed!
 || ===================================================
 || Enter command: || [Command entered:  delete]
 || Invalid command format! 
