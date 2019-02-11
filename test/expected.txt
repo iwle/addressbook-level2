@@ -135,6 +135,9 @@
 || 
 || 5 persons listed!
 || ===================================================
+|| Enter command: || [Command entered:  add Brown Adam p/666666 e/brownadam@nus.edu.sg a/666, zeta drive t/school t/friends]
+|| New person added: Brown Adam Phone: 666666 Email: brownadam@nus.edu.sg Address: 666, zeta drive Tags: [school][friends]
+|| ===================================================
 || Enter command: list
 || [Command entered:list]
 || 	1. Adam Brown Phone: 111111 Email: adam@gmail.com Address: 111, alpha street Tags:
