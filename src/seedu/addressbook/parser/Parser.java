@@ -175,7 +175,12 @@ public class Parser {
      * @return the prepared command
      */
     private Command prepareEdit(String args) {
+
         String argList[] = args.trim().split(" ", 2);
+
+        if (argList.length < 2) {
+            return new IncorrectCommand("Incorrect command");
+        }
 
         final Matcher matcher = PERSON_DATA_ARGS_FORMAT.matcher(argList[1].trim());
 
